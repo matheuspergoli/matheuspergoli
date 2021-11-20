@@ -2,10 +2,10 @@
 
 - 🌱 Estudando HTML e CSS, em breve JavaScript
 
-<div align="center" style="display: inline-block;">
+<div align="center">
   <a href="https://github.com/matheuspergoli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuspergoli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspergoli&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspergoli&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
