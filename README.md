@@ -2,6 +2,8 @@
 
 - 🌱 Estudando HTML e CSS, em breve JavaScript
 
+##
+
 <div align="center">
   <a href="https://github.com/matheuspergoli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuspergoli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -14,4 +16,3 @@
 </div>
 
 ##
-  
