@@ -16,3 +16,5 @@
 </div>
 
 ##
+
+![Snake animation](https://github.com/matheuspergoli/matheuspergoli/blob/output/github-contribution-grid-snake.svg)
