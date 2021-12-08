@@ -1,6 +1,6 @@
 ### Olá!, Eu sou o Matheus Pergoli 👋
 
-- 🌱 Estudando HTML e CSS, em breve JavaScript
+- 🌱 Estudando HTML, CSS e JavaScript
 
 ##
 
