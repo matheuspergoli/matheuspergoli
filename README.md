@@ -1,23 +1,31 @@
-### Olá!, Eu sou o Matheus Pergoli 👋
+<h2 align="center">Hi 👋! My name is Matheus Pergoli, and I'm a Frontend Developer, from Brazil</h2>
 
-- 🌱 Estudando HTML, CSS e JavaScript
+###
 
-##
+<h3 align="center">I'm currently learning HTML, CSS, SCSS, JAVASCRIPT</h3>
+
+###
 
 <div align="center">
-  <a href="https://github.com/matheuspergoli">
-  <img height="190px" width="420px" src="https://github-readme-stats.vercel.app/api?username=matheuspergoli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="190px" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspergoli&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Matheus-HTML" height="30" width="fit-content" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Matheus-CSS" height="30" width="fit-content" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Matheus-JS" height="30" width="fit-content" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Matheus-SASS" height="30" width="fit-content" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img align="center" alt="Matheus-REACT" height="30" width="fit-content" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=matheuspergoli" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=matheuspergoli" height="150" alt="languages graph"  />
 </div>
 
-##
+###
 
-![Snake animation](https://github.com/matheuspergoli/matheuspergoli/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="65" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="65" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="65" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="50" width="65" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" width="65" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" width="65" alt="sass logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img href="https://raw.githubusercontent.com/matheuspergoli/matheuspergoli/blob/output/snake.svg" alt="Snake animation" />
+
+###
