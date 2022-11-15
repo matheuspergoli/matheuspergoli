@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋! My name is Matheus Pergoli, and I'm a Frontend Developer, from Brazil<br><br>🌱 I’m currently learning REACT, NEXTJS, TYPESCRIPT, TAILWINDCSS, STYLED-COMPONENTS<br>
+Hi 👋! My name is Matheus Pergoli, and I'm a Frontend Developer, from Brazil<br><br>🌱 I’m currently learning NEXT, REACT, TYPESCRIPT, TAILWINDCSS, GRAPHQL<br>
 
 
 # 💻 Tech Stack:
