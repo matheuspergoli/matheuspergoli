@@ -24,6 +24,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=sass)
+![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite&logoColor=yellow)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
