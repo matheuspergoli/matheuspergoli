@@ -1,11 +1,13 @@
-# 💫 Sobre mim:
-🌱 Atualmente estou aprendendo NEXT, REACT, TYPESCRIPT, TAILWINDCSS, ZOD, NODE, Banco de dados
+## Que bom te ver aqui! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+
+## 💫 Sobre mim:
+🌱 Atualmente estou aprendendo Next, React, Typescript, TailwindCSS, Zod, Node, Banco de dados
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheuspergoli) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/heizmen) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)
@@ -28,7 +30,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheuspergoli&show_icons=true&theme=dark" />
 </a>
