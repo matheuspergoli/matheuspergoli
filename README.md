@@ -35,13 +35,13 @@
 
 ## 📊 GitHub Stats:
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheuspergoli&show_icons=true&theme=dark&card_width=500" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheuspergoli&show_icons=true&theme=dark" />
 </a>
 <a href="#">
-  <img align="center" src="https://streak-stats.demolab.com/?user=matheuspergoli&theme=dark&card_width=500" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=matheuspergoli&theme=dark" />
 </a>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspergoli&layout=compact&theme=dark&card_width=500" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspergoli&layout=compact&theme=dark" />
 </p>
 
 ## 🏆 GitHub Trophies
