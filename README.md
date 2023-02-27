@@ -1,6 +1,9 @@
 ## Que bom te ver aqui! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 ## 💫 Sobre mim:
+- Me chamo Matheus Pergoli, tenho 23 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
+- Tenho foco em atuação no desenvolvimento Frontend com Javascript mas também me aventuro no Backend.
+
 🌱 Atualmente estou aprendendo Next, React, Typescript, TailwindCSS, Zod, Node, Banco de dados
 
 
