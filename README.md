@@ -4,7 +4,7 @@
 - Me chamo Matheus Pergoli, tenho 23 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
 - Tenho foco em atuação no desenvolvimento Frontend com Javascript mas também me aventuro no Backend.
 
-🌱 Atualmente estou aprendendo Next, React, Typescript, TailwindCSS, Zod, Node, Banco de dados
+🌱 Atualmente estou aprendendo Next, React, Typescript, TailwindCSS, Zod, Node, Banco de dados e Testes
 
 
 ## 🌐 Socials:
