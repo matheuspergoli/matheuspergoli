@@ -35,7 +35,7 @@
 
 ## 📊 GitHub Stats:
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheuspergoli&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheuspergoli&show_icons=true&theme=dark&include_all_commits=true" />
 </a>
 <a href="#">
   <img align="center" src="https://streak-stats.demolab.com/?user=matheuspergoli&theme=dark" />
