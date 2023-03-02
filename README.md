@@ -6,7 +6,6 @@
 
 🌱 Atualmente estou aprendendo Next, React, Typescript, TailwindCSS, Zod, Node, Banco de dados e Testes
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheuspergoli) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/heizmen) 
 
@@ -46,4 +45,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=matheuspergoli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
