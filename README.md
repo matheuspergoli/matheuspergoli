@@ -40,7 +40,7 @@
   <img align="center" src="https://streak-stats.demolab.com/?user=matheuspergoli&theme=dark" />
 </a>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspergoli&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspergoli&layout=compact&theme=dark&hide=shell,scss" />
 </p>
 
 ## 🏆 GitHub Trophies
