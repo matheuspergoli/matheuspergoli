@@ -20,6 +20,7 @@ I’m highly enthusiastic about technology and continuous learning, always explo
 - [DraftCode](https://github.com/matheuspergoli/draftcode) - Frontend Challenges Platform for beginners and communities
 - [DraftAuth](https://github.com/matheuspergoli/draftauth) - Centralized System for authentication and authorization based on [@draftlab/auth](https://github.com/Draft-Lab/auth)
 - [Safe Action](https://github.com/matheuspergoli/safe-action) - Type-safe and runtime validation for Next.js server actions, inspired by tRPC
+- [Monorepo Template](https://github.com/matheuspergoli/monorepo-template) - Opinionated monorepo template designed for scalable, maintainable, and developer-friendly workflows
 - [@draftlab/db](https://github.com/Draft-Lab/db) - SQLite library for the browser using Web Workers and OPFS to work with local-first
 - [@draftlab/auth](https://github.com/Draft-Lab/auth) - Universal auth provider. It implements the OAuth 2.0 spec and is based on web standards
 
