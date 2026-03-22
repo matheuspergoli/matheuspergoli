@@ -27,4 +27,5 @@ I’m highly enthusiastic about technology and continuous learning, always explo
 ---
 
 ### 🌐 Connect with me
+- 🔗 Portfolio: https://matheuspergoli.com
 - 💼 LinkedIn: https://linkedin.com/in/matheuspergoli
