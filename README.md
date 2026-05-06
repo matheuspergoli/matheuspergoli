@@ -2,11 +2,9 @@
 
 ## Matheus Pergoli 🐨
 
-I’m a **Full Stack Developer** with a strong focus on **frontend engineering**, experienced in building scalable and high-quality web applications using modern JavaScript and TypeScript ecosystems.
+I like building things that stay clear as they grow.
 
-I work across the full development lifecycle — from user interfaces to backend services — with a strong emphasis on clean architecture, performance, maintainability, and developer experience. I care deeply about building systems that scale well, are easy to evolve, and provide great experiences for both users and developers.
-
-I’m highly enthusiastic about technology and continuous learning, always exploring new tools, patterns, and emerging areas such as artificial intelligence to improve how products are built and problems are solved.
+Most of what I enjoy sits somewhere between UI, system design, auth flows, reusable abstractions and developer experience.
 
 ---
 
@@ -16,16 +14,16 @@ I’m highly enthusiastic about technology and continuous learning, always explo
 
 ---
 
-### Things I’ve Built
-- [DraftCode](https://github.com/matheuspergoli/draftcode) - Frontend Challenges Platform for beginners and communities
-- [DraftAuth](https://github.com/matheuspergoli/draftauth) - Centralized System for authentication and authorization based on [@draftlab/auth](https://github.com/Draft-Lab/auth)
-- [Safe Action](https://github.com/matheuspergoli/safe-action) - Type-safe and runtime validation for Next.js server actions, inspired by tRPC
-- [Monorepo Template](https://github.com/matheuspergoli/monorepo-template) - Opinionated monorepo template designed for scalable, maintainable, and developer-friendly workflows
-- [@draftlab/db](https://github.com/Draft-Lab/db) - SQLite library for the browser using Web Workers and OPFS to work with local-first
-- [@draftlab/auth](https://github.com/Draft-Lab/auth) - Universal auth provider. It implements the OAuth 2.0 spec and is based on web standards
+### A few things I’ve built
+- [draftcode](https://github.com/matheuspergoli/draftcode) — frontend challenge platform built around real interfaces and practical implementation skills
+- [draftauth](https://github.com/matheuspergoli/draftauth) — centralized authentication and authorization system for shared identity and multi-app flows
+- [safe-action](https://github.com/matheuspergoli/safe-action) — runtime-safe Server Actions for Next.js with validation, type safety and a DX inspired by tRPC
+- [monorepo-template](https://github.com/matheuspergoli/monorepo-template) — opinionated monorepo template for scalable TypeScript apps and consistent developer workflows
+- [@draftlab/db](https://github.com/Draft-Lab/db) — SQLite for the browser using Web Workers and OPFS for local-first applications
+- [@draftlab/auth](https://github.com/Draft-Lab/auth) — universal auth provider based on OAuth 2.0 and web standards
 
 ---
 
-### 🌐 Connect with me
-- 🔗 Portfolio: https://matheuspergoli.com
-- 💼 LinkedIn: https://linkedin.com/in/matheuspergoli
+### Connect with me
+- Portfolio: https://matheuspergoli.com
+- LinkedIn: https://linkedin.com/in/matheuspergoli
